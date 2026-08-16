@@ -8,4 +8,17 @@ Python basics, strings, variables, operatos, control flow, functions, loops, sli
 . assigning one variable to another
 . tracing multiple assignments
 . swapping variables
-      
+-> OPERATORS ✅ 
+. arithmetic operator
+. assignment operator
+. comparision operator
+. logical operator
+. identity operator
+. membership operator
+. bitwise operator
+-> DATA STRUCTURES ✅ 
+. list
+. tuple
+. set
+. dictionary
+
